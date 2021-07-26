@@ -1,2 +1,2 @@
 # hello-world
-First repository created for practice
+My First repository created for practice
